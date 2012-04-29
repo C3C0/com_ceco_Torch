@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Hello World, TorchActivity!</string>
+    <string name="app_name">Torch</string>
+    <string name="check_torch_support">Testuj podporu Torch</string>
+    <string name="turn_on">Zapni Torch</string>
+    <string name="turn_off">Vypni Torch</string>
+
+</resources>
